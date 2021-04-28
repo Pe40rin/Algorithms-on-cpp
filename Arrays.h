@@ -1,0 +1,12 @@
+int less_than_5();
+int common_elems();
+int bubble_sort();
+int united_arrays();
+int max_3_in_array();
+int palindrome_check();
+int input_array();
+int first_and_last_in_array();
+int even_numbers_237();
+int uncommon_numbers();
+int unique_check();
+int cities();
